@@ -20,7 +20,7 @@ Automatically open the lyrics view in Spotify when it launches. This script inte
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-lyrics-clicker.git
+   git clone https://github.com/Vic2rious/spotify-lyrics-clicker.git
    cd spotify-lyrics-clicker
    ```
 
